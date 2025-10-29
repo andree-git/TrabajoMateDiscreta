@@ -19,7 +19,6 @@ COLORES_MAP = {
     "AZUL": {"code": "blue", "symbol": "A"},
     "ROJO": {"code": "red", "symbol": "R"},
     "VERDE": {"code": "green", "symbol": "V"},
-    "AMARILLO": {"code": "yellow", "symbol": "Y"},
     "TRANSPARENTE": {"code": "white", "symbol": "T"} 
 }
 
